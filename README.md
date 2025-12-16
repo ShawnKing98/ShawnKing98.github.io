@@ -1,1 +1,1 @@
-This is the source code to my public academic website: [https://shawnking98.github.io/aboutme/](https://shawnking98.github.io/aboutme/).
+This is the source code to my public academic website: [https://shawnking98.github.io/](https://shawnking98.github.io/).
